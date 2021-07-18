@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SI-PAKOST</string>
+    <string name="minimum_password">Password Minimal 6 Karakter</string>
+    <string name="no_email">Email Tidak Boleh Kosong</string>
+    <string name="no_pwd">Password Tidak Boleh Kosong</string>
+    <string name="confirm_pwd">Password Tidak Sama</string>
+    <string name="auth_failed">Login Gagal, Periksa Email dan Password Anda Kembali atau Daftar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="kasur">Kasur</string>
+    <string name="lemari">Lemari</string>
+    <string name="meja">Meja</string>
+    <string name="kursi">Kursi</string>
+    <string name="ac">AC</string>
+    <string name="fasilitas_kamar">Fasilitas Kamar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="jenis_kos">
+        <item>Putri</item>
+        <item>Putra</item>
+        <item>Campur</item>
+    </string-array>
+    <string-array name="level">
+        <item>Pencari Kos</item>
+        <item>Pemilik Kos</item>
+    </string-array>
+    <string name="title_activity_tambah">TambahActivity</string>
+    <string name="title_activity_tampil_kos">TampilKosActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_kos">DetailKosActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tambah_profil">TambahProfilActivity</string>
+    <string name="title_activity_pencari_kos">PencariKosActivity</string>
+    <string name="title_activity_level">LevelActivity</string>
+    <string name="title_activity_home_pencari">HomePencariActivity</string>
+    <string name="title_activity_tampil_profil">TampilProfilActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

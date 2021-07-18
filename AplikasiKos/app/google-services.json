@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "704809725173",
+    "firebase_url": "https://aplikasi-kos-19976.firebaseio.com",
+    "project_id": "aplikasi-kos-19976",
+    "storage_bucket": "aplikasi-kos-19976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704809725173:android:c068503e05f6c8ca",
+        "android_client_info": {
+          "package_name": "com.polinema.aqmarina.aplikasikos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704809725173-mvptjpllj3v6ac4al2ri9oh47a93lhkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTzUh7gYVhv_eiuuBpF_Vv3kgYOdJWvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
